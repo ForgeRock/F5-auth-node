@@ -19,8 +19,8 @@ Distributed Cloud Authentication Intelligence identifies multiple users on one d
 ### Prerequisites
 
 1) Tomcat 9 
-2) Java 8 or aboove
-3) Forgerock Open AM (7.1.2)
+2) Java 8 or above
+3) ForgeRock Open AM (7.1.2)
 
 ### Steps to deploy F5 
 

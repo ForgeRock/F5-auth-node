@@ -4,7 +4,7 @@ Secure your digital properties by leveraging F5’s proven approach to solving t
 
   
 
-F5 Distributed Cloud Services are trusted by leaders at the world's largest banks, retailers, and airlines. Now you can protect your e-commerce site against malicious bots, seamlessly authenticate users, and stop online fraud – enabling you to fully maximize your ForgeRock investment.  
+F5 Distributed Cloud Services are trusted by leaders at the world's largest banks, retailers, and airlines. Now you can protect your applications against malicious bots, seamlessly authenticate users, and stop online fraud – enabling you to fully maximize your ForgeRock investment.  
 
   
 
